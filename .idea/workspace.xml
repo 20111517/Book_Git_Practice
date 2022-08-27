@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56602346-557c-4e91-8a17-77751df4504d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Book_Git_Practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter_1/page 2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter_1/page1_and_addsome text" afterDir="false" />
+    <list default="true" id="56602346-557c-4e91-8a17-77751df4504d" name="Changes" comment="Writing text files">
+      <change beforePath="$PROJECT_DIR$/src/chapter_1/page1_and_addsome text" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_1/page1_and_addsome text" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +11,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2DwRwsLpSPq8fqCNQIvAe8NL5Tg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -43,8 +39,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661608411774</updated>
-      <workItem from="1661608413347" duration="654000" />
+      <workItem from="1661608413347" duration="1071000" />
     </task>
+    <task id="LOCAL-00001" summary="Writing text files">
+      <created>1661609105292</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661609105292</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -60,5 +64,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Writing text files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Writing text files" />
   </component>
 </project>
